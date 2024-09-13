@@ -11,7 +11,7 @@
 * شغل الكود عادي بعدين وجرب البرنامج وبعدين حاول تكتب برنامجك الخاص اللي ممكن يطلع نفس الoutput  
 
 ## How To Use
-> 1. clode the repo 
+> 1. clone the repo 
 >  2. run the program and see the output
 > 3. deal with program and output 
 > 4. try to write your own code to return same output
