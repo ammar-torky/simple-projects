@@ -36,5 +36,7 @@ for user_answer, correct_answer in zip(guesses, right_answers):
 
 if score >= 3:
     print(f"Awesome! Your Score is: {score}/5")
-else:
+elif score >=1 and score <3 :
     print(f"Not Bad! You Got: {score}/5")
+else :
+    print(f"sorry, You Got Bad Score {score}/5 ")
